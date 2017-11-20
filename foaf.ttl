@@ -1,0 +1,27 @@
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://w3id.org/people/mpoveda>
+  a foaf:PersonalProfileDocument ;
+  foaf:maker <http://w3id.org/people/mpoveda> ;
+  foaf:primaryTopic <http://w3id.org/people/mpoveda> ;
+  foaf:title "Idafen Santana-Perez's FOAF file"@en .
+
+<http://w3id.org/people/mpoveda>
+  a foaf:Person ;
+  foaf:based_near <http://dbpedia.org/resource/Madrid> ;
+  foaf:family_name "Poveda-Villalón"^^xsd:string ;
+  foaf:givenname "María"^^xsd:string ;
+  foaf:holdsAccount <https://twitter.com/MariaPovedaV> ;
+  foaf:homepage <https://idafen.wordpress.com/> ;
+  foaf:mbox <mailto:mpoveda@fi.upm.es>, <mailto:mpovedavillalon@gmail.com> ;
+  foaf:name "María Poveda Villalón"^^xsd:string ;
+  foaf:nick "mpoveda"^^xsd:string ;
+  foaf:schoolHomepage <http://www.fi.upm.es/> ;
+  foaf:title "PhD"^^xsd:string ;
+  foaf:workplaceHomepage <http://www.oeg-upm.net/> .
+
+<http://www.oeg-upm.net/#this>
+  a foaf:Group ;
+  foaf:member <http://w3id.org/people/mpoveda> ;
+  foaf:name "Ontology Engineering Group (OEG) "@en .
