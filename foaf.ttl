@@ -5,7 +5,7 @@
   a foaf:PersonalProfileDocument ;
   foaf:maker <http://w3id.org/people/mpoveda> ;
   foaf:primaryTopic <http://w3id.org/people/mpoveda> ;
-  foaf:title "Idafen Santana-Perez's FOAF file"@en .
+  foaf:title "María Poveda Villalón's FOAF file"@en .
 
 <http://w3id.org/people/mpoveda>
   a foaf:Person ;
@@ -13,7 +13,7 @@
   foaf:family_name "Poveda-Villalón"^^xsd:string ;
   foaf:givenname "María"^^xsd:string ;
   foaf:holdsAccount <https://twitter.com/MariaPovedaV> ;
-  foaf:homepage <https://idafen.wordpress.com/> ;
+  foaf:homepage <http://thepetiteontologist.wordpress.com/> ;
   foaf:mbox <mailto:mpoveda@fi.upm.es>, <mailto:mpovedavillalon@gmail.com> ;
   foaf:name "María Poveda Villalón"^^xsd:string ;
   foaf:nick "mpoveda"^^xsd:string ;
